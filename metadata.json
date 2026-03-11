@@ -1,0 +1,5 @@
+{
+  "name": "RoktoBondhon - রক্তবন্ধন",
+  "description": "A premium, mobile-first blood donation platform for real-time emergency requests and donor tracking.",
+  "requestFramePermissions": ["geolocation"]
+}
